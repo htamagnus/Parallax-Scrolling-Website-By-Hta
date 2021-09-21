@@ -1,5 +1,5 @@
 # Parallax-Scrolling-Website-By-Hta
- site interativo com html, css e um pouco de js
+ Site interativo com html, css e um pouco de js
 
 RESULTADO:
 ![image](https://user-images.githubusercontent.com/85269068/134223464-f3adfed4-10da-40bb-a4b2-8ab7380a1e2b.png)
